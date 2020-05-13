@@ -1,5 +1,5 @@
 # Following is a readme file for the software implementation of FMCW Radar Project. 
-# The project was done by Kushagra Shah and Ayush Mall under the guidance of Prof. Amalin Prince.
+# The project was done by Ayush Mall and Kushagra Shah under the guidance of Prof. Amalin Prince.
 
 1. The project is shared on google drive with the concerned parties. Anyhow, following is the drive link:
    https://drive.google.com/drive/folders/1PpqOVgem24lEsXIFBhltZTclOvsvwyfc?usp=sharing
