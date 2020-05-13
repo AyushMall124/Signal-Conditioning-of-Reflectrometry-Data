@@ -1,8 +1,7 @@
 # Following is a readme file for the software implementation of FMCW Radar Project. 
 # The project was done by Ayush Mall and Kushagra Shah under the guidance of Prof. Amalin Prince.
 
-1. The project is shared on google drive with the concerned parties. Anyhow, following is the drive link:
-   https://drive.google.com/drive/folders/1PpqOVgem24lEsXIFBhltZTclOvsvwyfc?usp=sharing
+1.It is recommended that the python file be kept in a seperate folder after downloading.
 
 2. The files have been arranged in subfolders for convenience. This readme file can be found in the "Supportin files" folder. It is recommended that the python file be kept in a seperate folder after downloading.
 
